@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Attentia.Infrastructure.Integration.TriggerTest</id>
+        <version>1.0.1.</version>
+        <authors>Attentia</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Checking the Auto CI PipeLine </description>
+    </metadata>
+    <files>
+      <file src="*.yml" />
+      <file src="*.md" />
+    </files>
+</package>
