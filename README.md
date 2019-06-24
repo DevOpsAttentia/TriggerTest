@@ -6,4 +6,4 @@ We now have a branch following the pattern ... should build!
 Updated wildcard.
 
 Check the notification.
-Update 6!
+Update 7!
