@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Attentia.Infrastructure.Integration.TriggerTest</id>
-        <version>1.0.10</version>
+        <version>1.0.11</version>
         <authors>Attentia</authors>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Checking the Auto CI PipeLine </description>
